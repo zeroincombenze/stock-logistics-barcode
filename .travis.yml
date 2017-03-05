@@ -14,7 +14,7 @@ python:
 
 env:
   global:
-  - VERSION="7.0" ODOO_REPO="odoo/odoo" TESTS="0" LINT_CHECK="0" TRANSIFEX="0"
+  - VERSION="7.0" TESTS="0" LINT_CHECK="0" TRANSIFEX="0"
   - TRANSIFEX_USER='transbot@odoo-community.org'
   - secure: Ngx9QgmFHDds9g9mLlAhlot4mt6/VYb+rnTd4qTm9J2OOQHJOgv4qY81ZiHD3qQrS0WTx9CvZZiTFOSxu8CsFfwJZ+o0cROlbPuUPJPltE/AQphkGwD1y0MGQJgrRLnqWxodjNT0zkDvhyQ127X7QkMW4GRI7Hrrrfiz81riMX8=
 
@@ -28,7 +28,7 @@ virtualenv:
   system_site_packages: true
 
 install:
-  - git clone --depth 1 https://github.com/OCA/maintainer-quality-tools.git $HOME/maintainer-quality-tools
+  - git clone --depth=1 https://github.com/OCA/maintainer-quality-tools.git ${HOME}/maintainer-quality-tools
   - export PATH=$HOME/maintainer-quality-tools/travis:$PATH
   - travis_install_nightly
 
