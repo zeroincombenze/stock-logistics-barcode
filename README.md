@@ -48,4 +48,30 @@ is mainly designed for Italian law and markeplace.
 Everytime, every Odoo DB and customized code can be deployed on local server too.
 
 [//]: # (end copyright)
+[//]: # (addons)
+
+
+Available addons
+----------------
+addon | version | OCA version | summary
+--- | --- | --- | ---
+[barcode_link](barcode_link/) | 1.0 |  N/D  | Barcode link Module
+[base_gs1_barcode](base_gs1_barcode/) | 1.0 |  N/D  | Decoding API for GS1-128 (aka UCC/EAN-128) and GS1-Datamatrix
+[tr_barcode](tr_barcode/) | 1.1.4 |  N/D  | TR Barcode
+[tr_barcode_config](tr_barcode_config/) | 1.1.1 |  N/D  | Barcode configuration Module
+[tr_barcode_field](tr_barcode_field/) | 1.1 |  N/D  | Barcode field Module
+[tr_barcode_on_picking](tr_barcode_on_picking/) | 1.1 |  N/D  | Barcode for pickings
+[tr_barcode_on_prodlots](tr_barcode_on_prodlots/) | 1.1 |  N/D  | Barcode for production lots
+[tr_barcode_on_product](tr_barcode_on_product/) | 1.1 |  N/D  | Barcode for product
+[tr_barcode_on_tracking](tr_barcode_on_tracking/) | 1.1 |  N/D  | Barcode for tracking
+
+
+Unported addons
+---------------
+addon | version | OCA version | summary
+--- | --- | --- | ---
+[product_multi_ean](product_multi_ean/) | 1.2 (unported) |  N/D  | Multiple EAN13 on products
+
+[//]: # (end addons)
+
 [![chat with us](https://www.shs-av.com/wp-content/chat_with_us.gif)](https://tawk.to/85d4f6e06e68dd4e358797643fe5ee67540e408b)
