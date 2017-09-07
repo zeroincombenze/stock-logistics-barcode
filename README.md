@@ -8,7 +8,7 @@
 [![try it](http://www.zeroincombenze.it/wp-content/uploads/ci-ct/prd/button-try-it-7.svg)](http://erp7.zeroincombenze.it)
 
 
-[![en](http://www.shs-av.com/wp-content/en_US.png)](http://wiki.zeroincombenze.org/it/Odoo/7.0/man)
+[![en](https://github.com/zeroincombenze/grymb/blob/master/flags/en_US.png)](https://www.facebook.com/groups/openerp.italia/)
 ================================================================================================
 ================================================================================================
 
@@ -55,22 +55,22 @@ Available addons
 ----------------
 addon | version | OCA version | summary
 --- | --- | --- | ---
-[barcode_link](barcode_link/) | 1.0 |  N/D  | Barcode link Module
-[base_gs1_barcode](base_gs1_barcode/) | 1.0 |  N/D  | Decoding API for GS1-128 (aka UCC/EAN-128) and GS1-Datamatrix
-[tr_barcode](tr_barcode/) | 1.1.4 |  N/D  | TR Barcode
-[tr_barcode_config](tr_barcode_config/) | 1.1.1 |  N/D  | Barcode configuration Module
-[tr_barcode_field](tr_barcode_field/) | 1.1 |  N/D  | Barcode field Module
-[tr_barcode_on_picking](tr_barcode_on_picking/) | 1.1 |  N/D  | Barcode for pickings
-[tr_barcode_on_prodlots](tr_barcode_on_prodlots/) | 1.1 |  N/D  | Barcode for production lots
-[tr_barcode_on_product](tr_barcode_on_product/) | 1.1 |  N/D  | Barcode for product
-[tr_barcode_on_tracking](tr_barcode_on_tracking/) | 1.1 |  N/D  | Barcode for tracking
+[barcode_link](barcode_link/) | 1.0 | :repeat: | Barcode link Module
+[base_gs1_barcode](base_gs1_barcode/) | 1.0 | :repeat: | Decoding API for GS1-128 (aka UCC/EAN-128) and GS1-Datamatrix
+[tr_barcode](tr_barcode/) | 1.1.4 | :repeat: | TR Barcode
+[tr_barcode_config](tr_barcode_config/) | 1.1.1 | :repeat: | Barcode configuration Module
+[tr_barcode_field](tr_barcode_field/) | 1.1 | :repeat: | Barcode field Module
+[tr_barcode_on_picking](tr_barcode_on_picking/) | 1.1 | :repeat: | Barcode for pickings
+[tr_barcode_on_prodlots](tr_barcode_on_prodlots/) | 1.1 | :repeat: | Barcode for production lots
+[tr_barcode_on_product](tr_barcode_on_product/) | 1.1 | :repeat: | Barcode for product
+[tr_barcode_on_tracking](tr_barcode_on_tracking/) | 1.1 | :repeat: | Barcode for tracking
 
 
 Unported addons
 ---------------
 addon | version | OCA version | summary
 --- | --- | --- | ---
-[product_multi_ean](product_multi_ean/) | 1.2 (unported) |  N/D  | Multiple EAN13 on products
+[product_multi_ean](product_multi_ean/) | 1.2 (unported) | :repeat: | Multiple EAN13 on products
 
 [//]: # (end addons)
 
