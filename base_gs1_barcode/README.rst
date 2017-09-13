@@ -38,8 +38,10 @@ Installation
 ------------
 
 
+
 Configuration
 -------------
+
 
 
 
@@ -51,6 +53,8 @@ You can configure the barcode string separator and prefix in the System
 parameters. Use *None* to indicate a null prefix.
 
 Usage
+-----
+
 -----
 
 -----
@@ -70,6 +74,7 @@ Known issues / Roadmap
 
 
 
+
 Group separator
 When an "Application Identifiers" has variable-length data,
 the barcodes must contain a special character (<GS>, group separator)
@@ -84,6 +89,7 @@ Bug Tracker
 
 
 
+
 Bugs are tracked on `GitHub Issues <https://github.com/OCA/{stock-logistics-barcode}/issues>`_.
 In case of trouble, please check there if your issue has already been reported.
 If you spotted it first, help us smashing it by providing a detailed and welcomed feedback
@@ -94,12 +100,15 @@ Credits
 
 
 
+
 Numérigraphe (http://numerigraphe.com)
 
 [![Odoo Italia Associazione]]
 
 
+
 ### Contributors
+
 
 
 
@@ -109,6 +118,8 @@ Numérigraphe (http://numerigraphe.com)
 ### Funders
 
 ### Maintainer
+
+
 
 
 

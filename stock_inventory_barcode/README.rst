@@ -36,11 +36,15 @@ Installation
 ------------
 
 
+
 Configuration
 -------------
 
 
+
 Usage
+-----
+
 -----
 
 -----
@@ -63,6 +67,7 @@ Known issues / Roadmap
 
 
 
+
 * No tracking via Serial Number (I tried to implement it, but it makes
   the interface more complex and/or slower to use: you can't get/create
   the inventory line on the onchange of the Product field, you need to
@@ -82,6 +87,7 @@ Bug Tracker
 
 
 
+
 Bugs are tracked on `GitHub Issues
 <https://github.com/OCA/stock-logistics-barcode/issues>`_. In case of trouble, please
 check there if your issue has already been reported. If you spotted it first,
@@ -96,10 +102,13 @@ Credits
 
 
 
+
 [![Odoo Italia Associazione]]
 
 
+
 ### Contributors
+
 
 
 
@@ -108,6 +117,8 @@ Credits
 ### Funders
 
 ### Maintainer
+
+
 
 
 

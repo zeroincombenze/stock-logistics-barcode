@@ -23,11 +23,15 @@ Installation
 ------------
 
 
+
 Configuration
 -------------
 
 
+
 Usage
+-----
+
 -----
 
 -----
@@ -46,10 +50,12 @@ Known issues / Roadmap
 
 
 
+
 * The barcode interface continues to be accessible when directly navigated to it (/barcode/web/).
  
 Bug Tracker
 -----------
+
 
 
 
@@ -67,10 +73,13 @@ Credits
 
 
 
+
 [![Odoo Italia Associazione]]
 
 
+
 ### Contributors
+
 
 
 
@@ -79,6 +88,8 @@ Credits
 ### Funders
 
 ### Maintainer
+
+
 
 
 
