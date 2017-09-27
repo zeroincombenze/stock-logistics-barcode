@@ -15,6 +15,7 @@
     :alt: License: AGPL-3
 
 GS1 Barcodes
+============
 
 This module provides an API to decoding the content of structured barcodes
 like GS1-128 or GS1-Datamatrix.
@@ -55,6 +56,10 @@ You can configure the barcode string separator and prefix in the System
 parameters. Use *None* to indicate a null prefix.
 
 Usage
+-----
+
+-----
+
 -----
 
 -----
@@ -110,7 +115,7 @@ Credits
 
 Numérigraphe (http://numerigraphe.com)
 
-[![Odoo Italia Associazione]]
+
 
 
 
@@ -125,8 +130,8 @@ Numérigraphe (http://numerigraphe.com)
 * Stefan Rijnhart <stefan@therp.nl>
 
 ### Funders
-
 ### Maintainer
+
 
 
 

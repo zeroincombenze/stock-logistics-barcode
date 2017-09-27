@@ -16,6 +16,7 @@
    :alt: License: AGPL-3
 
 Disable Barcode Interface
+=========================
 
 This module makes it possible to disable and enable (configurable) the barcode interface.
 
@@ -32,6 +33,10 @@ Configuration
 
 
 Usage
+-----
+
+-----
+
 -----
 
 -----
@@ -81,7 +86,7 @@ Credits
 
 
 
-[![Odoo Italia Associazione]]
+
 
 
 
@@ -95,8 +100,8 @@ Credits
 * Dennis Sluijk <d.sluijk@onestein.nl>
 
 ### Funders
-
 ### Maintainer
+
 
 
 

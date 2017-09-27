@@ -16,6 +16,7 @@
    :alt: License: AGPL-3
 
 Multiple EAN13 on products
+==========================
 
 It allows to have multiple EAN13 on products.
 
@@ -32,6 +33,10 @@ Configuration
 
 
 Usage
+-----
+
+-----
+
 -----
 
 -----
@@ -80,7 +85,7 @@ Credits
 
 
 
-[![Odoo Italia Associazione]]
+
 
 
 
@@ -101,8 +106,8 @@ Images
 
 
 ### Funders
-
 ### Maintainer
+
 
 
 

@@ -16,6 +16,7 @@
    :alt: License: AGPL-3
 
 Stock Inventory Barcode
+=======================
 
 The interface provided by Odoo in the official *stock* module to make an
 inventory has 2 limitations:
@@ -45,6 +46,10 @@ Configuration
 
 
 Usage
+-----
+
+-----
+
 -----
 
 -----
@@ -110,7 +115,7 @@ Credits
 
 
 
-[![Odoo Italia Associazione]]
+
 
 
 
@@ -124,8 +129,8 @@ Credits
 * Alexis de Lattre <alexis.delattre@akretion.com>
 
 ### Funders
-
 ### Maintainer
+
 
 
 

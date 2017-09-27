@@ -16,6 +16,7 @@
    :alt: License: GPL-3
 
 Product barcode generator
+=========================
 
 This module will add a function which leads to an automatic generation of EAN13 for products
 
@@ -42,6 +43,10 @@ Configuration
 
 
 Usage
+-----
+
+-----
+
 -----
 
 -----
@@ -82,7 +87,7 @@ Credits
 
 
 
-[![Odoo Italia Associazione]]
+
 
 
 
@@ -98,8 +103,8 @@ Credits
 * Damien Crier <damien.crier@camptocamp.com>
 
 ### Funders
-
 ### Maintainer
+
 
 
 
