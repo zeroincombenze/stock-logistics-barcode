@@ -13,6 +13,7 @@
 ================================================================================================
 
 Odoo Stock Logistic Barcode
+===========================
 
 
 This project aims to deal with modules related to the management of barcode in a generic way. You'll find modules that:
