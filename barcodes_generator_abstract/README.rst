@@ -1,8 +1,19 @@
-.. image:: https://img.shields.io/badge/licence-AGPL--3-blue.svg
+[![Build Status](https://travis-ci.org/zeroincombenze/stock-logistics-barcode.svg?branch=10.0)](https://travis-ci.org/zeroincombenze/stock-logistics-barcode)
+[![license agpl](https://img.shields.io/badge/licence-AGPL--3-blue.svg)](http://www.gnu.org/licenses/agpl-3.0.html)
+[![Coverage Status](https://coveralls.io/repos/github/zeroincombenze/stock-logistics-barcode/badge.svg?branch=10.0)](https://coveralls.io/github/zeroincombenze/stock-logistics-barcode?branch=10.0)
+[![codecov](https://codecov.io/gh/zeroincombenze/stock-logistics-barcode/branch/10.0/graph/badge.svg)](https://codecov.io/gh/zeroincombenze/stock-logistics-barcode/branch/10.0)
+[![OCA_project](http://www.zeroincombenze.it/wp-content/uploads/ci-ct/prd/button-oca-10.svg)](https://github.com/OCA/stock-logistics-barcode/tree/10.0)
+[![Tech Doc](http://www.zeroincombenze.it/wp-content/uploads/ci-ct/prd/button-docs-10.svg)](http://wiki.zeroincombenze.org/en/Odoo/10.0/dev)
+[![Help](http://www.zeroincombenze.it/wp-content/uploads/ci-ct/prd/button-help-10.svg)](http://wiki.zeroincombenze.org/en/Odoo/10.0/man/LO)
+[![try it](http://www.zeroincombenze.it/wp-content/uploads/ci-ct/prd/button-try-it-10.svg)](http://erp10.zeroincombenze.it)
+
+
+[![en](https://github.com/zeroincombenze/grymb/blob/master/flags/en_US.png)](https://www.facebook.com/groups/openerp.italia/)
+
    :target: http://www.gnu.org/licenses/agpl-3.0-standalone.html
+================================================================
    :alt: License: AGPL-3
 
-===========================================
 Generate Barcodes for any Models (Abstract)
 ===========================================
 
@@ -29,7 +40,12 @@ With this module, it is possible to:
 * Generate a barcode, based on the defined pattern and the barcode base
 
 Installation
-============
+------------
+
+
+
+
+
 
 This module use an extra python library named 'viivakoodi' you should install
 to make barcode generation works properly. 'viivakoodi' is a more active for of
@@ -38,7 +54,12 @@ to make barcode generation works properly. 'viivakoodi' is a more active for of
 ``sudo pip install viivakoodi``
 
 Configuration
-=============
+-------------
+
+
+
+
+
 
 To configure this module, you need to:
 
@@ -65,6 +86,18 @@ In all cases, padding will be computed automaticaly, based on the number
 of '.' in the Barcode Pattern field.
 
 Usage
+-----
+
+-----
+
+-----
+
+-----
+
+-----
+
+-----
+
 =====
 
 This module is an abstract module. You can configure Barcode Rule, but to
@@ -83,7 +116,6 @@ Try this module on Runbot
    :target: https://runbot.odoo-community.org/runbot/150/10.0
 
 Inheritance
-===========
 
 If you want to generate barcode for another model, you can create a custom
 module that inherits on 'barcodes_generator_abstract' and inherit your model
@@ -106,7 +138,12 @@ Note
 Your model should have a field 'barcode' defined.
 
 Known issues / Roadmap
-======================
+----------------------
+
+
+
+
+
 
 1. On barcode.rule model, constraint and domain system could be set between
    'type' and 'generate_model' fields.
@@ -114,7 +151,12 @@ Known issues / Roadmap
    constraint is bad practice & should be moved somewhere.
 
 Bug Tracker
-===========
+-----------
+
+
+
+
+
 
 Bugs are tracked on `GitHub Issues
 <https://github.com/OCA/stock-logistics-barcode/issues>`_. In case of trouble,
@@ -122,22 +164,45 @@ please check there if your issue has already been reported. If you spotted it
 first, help us smashing it by providing a detailed and welcomed feedback.
 
 Credits
-=======
+-------
+
+
+
+
+
 
 Images
-------
 
 * Icon of the module is based on the Oxygen Team work and is under LGPL licence:
   http://www.iconarchive.com/show/oxygen-icons-by-oxygen-icons.org.html
 
-Contributors
-------------
+
+
+
+
+
+### Contributors
+
+
+
+
+
 
 * Sylvain LE GAL (https://twitter.com/legalsylvain)
 * Dave Lasley <dave@laslabs.com>
 
-Maintainer
-----------
+### Funders
+
+### Maintainer
+
+
+
+
+
+
+
+
+
 
 .. image:: https://odoo-community.org/logo.png
    :alt: Odoo Community Association
@@ -151,3 +216,26 @@ promote its widespread use.
 
 To contribute to this module, please visit https://odoo-community.org.
 
+[//]: # (copyright)
+
+----
+
+**Odoo** is a trademark of [Odoo S.A.](https://www.odoo.com/) (formerly OpenERP, formerly TinyERP)
+
+**OCA**, or the [Odoo Community Association](http://odoo-community.org/), is a nonprofit organization whose
+mission is to support the collaborative development of Odoo features and
+promote its widespread use.
+
+**zeroincombenze®** is a trademark of [SHS-AV s.r.l.](http://www.shs-av.com/)
+which distributes and promotes **Odoo** ready-to-use on its own cloud infrastructure.
+[Zeroincombenze® distribution](http://wiki.zeroincombenze.org/en/Odoo)
+is mainly designed for Italian law and markeplace.
+Everytime, every Odoo DB and customized code can be deployed on local server too.
+
+[//]: # (end copyright)
+
+[//]: # (addons)
+
+[//]: # (end addons)
+
+[![chat with us](https://www.shs-av.com/wp-content/chat_with_us.gif)](https://tawk.to/85d4f6e06e68dd4e358797643fe5ee67540e408b)
