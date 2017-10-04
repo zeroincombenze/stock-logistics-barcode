@@ -45,6 +45,8 @@ Usage
 
 -----
 
+-----
+
 =====
 
 #. go to Settings -> Configuration -> Warehouse;
