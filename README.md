@@ -8,9 +8,51 @@
 [![try it](http://www.zeroincombenze.it/wp-content/uploads/ci-ct/prd/button-try-it-10.svg)](http://erp10.zeroincombenze.it)
 
 
-[![en](https://github.com/zeroincombenze/grymb/blob/master/flags/en_US.png)](https://www.facebook.com/groups/openerp.italia/)
-================================================================================================
-================================================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[![en](http://www.shs-av.com/wp-content/en_US.png)](http://wiki.zeroincombenze.org/it/Odoo/7.0/man)
 
 Odoo Stock Logistic Barcode
 ===========================
@@ -36,13 +78,13 @@ Available addons
 ----------------
 addon | version | OCA version | summary
 --- | --- | --- | ---
-[barcodes_generator_abstract](barcodes_generator_abstract/) | 10.0.1.0.0 | 10.0.1.0.1 | Generate Barcodes for Any Models
+[barcodes_generator_abstract](barcodes_generator_abstract/) | 10.0.1.0.0 | 10.0.1.0.2 | Generate Barcodes for Any Models
 [barcodes_generator_location](barcodes_generator_location/) | 10.0.1.0.0 | :repeat: | Generate Barcodes for Stock Locations
 [barcodes_generator_lot](barcodes_generator_lot/) | 10.0.1.0.0 | :repeat: | Generate Barcodes for Stock Production Lots
 [barcodes_generator_package](barcodes_generator_package/) | 10.0.1.0.0 | :repeat: | Generate Barcodes for Product Packaging
 [barcodes_generator_partner](barcodes_generator_partner/) | 10.0.1.0.0 | :repeat: | Generate Barcodes for Partners
 [barcodes_generator_product](barcodes_generator_product/) | 10.0.1.0.0 | :repeat: | Generate Barcodes for Products (Templates and Variants)
-[stock_scanner](stock_scanner/) | 10.0.1.0.0 | :repeat: | Allows managing barcode readers with simple scenarios
+[stock_scanner](stock_scanner/) | 10.0.1.0.0 | 10.0.1.0.4 | Allows managing barcode readers with simple scenarios
 
 
 Unported addons
