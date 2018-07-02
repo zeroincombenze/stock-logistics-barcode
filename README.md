@@ -64,6 +64,8 @@
 
 
 
+
+
 [![en](http://www.shs-av.com/wp-content/en_US.png)](http://wiki.zeroincombenze.org/it/Odoo/7.0/man)
 
 Odoo Stock Logistic Barcode
@@ -96,7 +98,7 @@ addon | version | OCA version | summary
 [barcodes_generator_package](barcodes_generator_package/) | 10.0.1.0.0 | :repeat: | Generate Barcodes for Product Packaging
 [barcodes_generator_partner](barcodes_generator_partner/) | 10.0.1.0.0 | :repeat: | Generate Barcodes for Partners
 [barcodes_generator_product](barcodes_generator_product/) | 10.0.1.0.0 | :repeat: | Generate Barcodes for Products (Templates and Variants)
-[stock_scanner](stock_scanner/) | 10.0.1.0.0 | 10.0.1.0.4 | Allows managing barcode readers with simple scenarios
+[stock_scanner](stock_scanner/) | 10.0.1.0.0 | 10.0.1.1.0 | Allows managing barcode readers with simple scenarios
 
 
 Unported addons
