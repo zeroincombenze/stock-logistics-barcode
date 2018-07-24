@@ -80,6 +80,8 @@
 
 
 
+
+
 [![en](http://www.shs-av.com/wp-content/en_US.png)](http://wiki.zeroincombenze.org/it/Odoo/7.0/man)
 
 Odoo Stock Logistic Barcode
@@ -104,32 +106,32 @@ Please don't hesitate to suggest one of your module to this project. Also, you m
 
 Available addons
 ----------------
-addon | version | OCA version | summary
---- | --- | --- | ---
-[barcodes_generator_abstract](barcodes_generator_abstract/) | 9.0.1.0.0 | :repeat: | Generate Barcodes for Any Models
-[barcodes_generator_partner](barcodes_generator_partner/) | 9.0.1.0.0 | :repeat: | Generate Barcodes for Partners
-[barcodes_generator_product](barcodes_generator_product/) | 9.0.1.0.0 | :repeat: | Generate Barcodes for Products (Templates and Variants)
-[stock_scanner](stock_scanner/) | 9.0.1.0.0 | :repeat: | Allows managing barcode readers with simple scenarios
-[stock_scanner_inventory](stock_scanner_inventory/) | 9.0.1.0.0 | :repeat: | Stock Scanner Inventory
-[stock_scanner_location_info](stock_scanner_location_info/) | 9.0.1.0.0 | :repeat: | Stock Scanner Location Info
-[stock_scanner_receipt](stock_scanner_receipt/) | 9.0.1.0.0 | :repeat: | Stock Scanner Receipt
-[stock_scanner_shipping](stock_scanner_shipping/) | 9.0.1.0.0 | :repeat: | Stock Scanner Shipping
+addon | version | summary
+--- | --- | ---
+[barcodes_generator_abstract](barcodes_generator_abstract/) | 9.0.1.0.0 | Generate Barcodes for Any Models
+[barcodes_generator_partner](barcodes_generator_partner/) | 9.0.1.0.0 | Generate Barcodes for Partners
+[barcodes_generator_product](barcodes_generator_product/) | 9.0.1.0.0 | Generate Barcodes for Products (Templates and Variants)
+[stock_scanner](stock_scanner/) | 9.0.1.0.0 | Allows managing barcode readers with simple scenarios
+[stock_scanner_inventory](stock_scanner_inventory/) | 9.0.1.0.0 | Stock Scanner Inventory
+[stock_scanner_location_info](stock_scanner_location_info/) | 9.0.1.0.0 | Stock Scanner Location Info
+[stock_scanner_receipt](stock_scanner_receipt/) | 9.0.1.0.0 | Stock Scanner Receipt
+[stock_scanner_shipping](stock_scanner_shipping/) | 9.0.1.0.0 | Stock Scanner Shipping
 
 
 Unported addons
 ---------------
-addon | version | OCA version | summary
---- | --- | --- | ---
-[barcode_link](barcode_link/) | 1.0 (unported) | :repeat: | Barcode link Module
-[base_gs1_barcode](base_gs1_barcode/) | 1.0 (unported) | :repeat: | Decoding API for GS1-128 (aka UCC/EAN-128) and GS1-Datamatrix
-[product_multi_ean](product_multi_ean/) | 1.2 (unported) | :repeat: | Multiple EAN13 on products
-[tr_barcode](tr_barcode/) | 1.1.4 (unported) | :repeat: | TR Barcode
-[tr_barcode_config](tr_barcode_config/) | 1.1.1 (unported) | :repeat: | Barcode configuration Module
-[tr_barcode_field](tr_barcode_field/) | 1.1 (unported) | :repeat: | Barcode field Module
-[tr_barcode_on_picking](tr_barcode_on_picking/) | 1.1 (unported) | :repeat: | Barcode for pickings
-[tr_barcode_on_prodlots](tr_barcode_on_prodlots/) | 1.1 (unported) | :repeat: | Barcode for production lots
-[tr_barcode_on_product](tr_barcode_on_product/) | 1.1 (unported) | :repeat: | Barcode for product
-[tr_barcode_on_tracking](tr_barcode_on_tracking/) | 1.1 (unported) | :repeat: | Barcode for tracking
+addon | version | summary
+--- | --- | ---
+[barcode_link](barcode_link/) | 1.0 (unported) | Barcode link Module
+[base_gs1_barcode](base_gs1_barcode/) | 1.0 (unported) | Decoding API for GS1-128 (aka UCC/EAN-128) and GS1-Datamatrix
+[product_multi_ean](product_multi_ean/) | 1.2 (unported) | Multiple EAN13 on products
+[tr_barcode](tr_barcode/) | 1.1.4 (unported) | TR Barcode
+[tr_barcode_config](tr_barcode_config/) | 1.1.1 (unported) | Barcode configuration Module
+[tr_barcode_field](tr_barcode_field/) | 1.1 (unported) | Barcode field Module
+[tr_barcode_on_picking](tr_barcode_on_picking/) | 1.1 (unported) | Barcode for pickings
+[tr_barcode_on_prodlots](tr_barcode_on_prodlots/) | 1.1 (unported) | Barcode for production lots
+[tr_barcode_on_product](tr_barcode_on_product/) | 1.1 (unported) | Barcode for product
+[tr_barcode_on_tracking](tr_barcode_on_tracking/) | 1.1 (unported) | Barcode for tracking
 
 [//]: # (end addons)
 
@@ -144,11 +146,13 @@ mission is to support the collaborative development of Odoo features and
 promote its widespread use.
 
 **zeroincombenze®** is a trademark of [SHS-AV s.r.l.](http://www.shs-av.com/)
-which distributes and promotes **Odoo** ready-to-use on its own cloud infrastructure.
-[Zeroincombenze® distribution](http://wiki.zeroincombenze.org/en/Odoo)
+which distributes and promotes **Odoo** ready-to-use on own cloud infrastructure.
+[Zeroincombenze® distribution of Odoo](http://wiki.zeroincombenze.org/en/Odoo)
 is mainly designed for Italian law and markeplace.
-Everytime, every Odoo DB and customized code can be deployed on local server too.
+Users can download from [Zeroincombenze® distribution](https://github.com/zeroincombenze/OCB) and deploy on local server.
 
 [//]: # (end copyright)
+
+
 
 [![chat with us](https://www.shs-av.com/wp-content/chat_with_us.gif)](https://tawk.to/85d4f6e06e68dd4e358797643fe5ee67540e408b)
